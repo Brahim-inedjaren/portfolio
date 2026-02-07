@@ -1,10 +1,12 @@
+import profileImg from '../assets/photo_prof.png';
+
 export const content = {
   hero: {
     name: "Brahim Inedjaren",
     role: "Développeur Full Stack",
     description: "Étudiant en Master 2 Informatique. Passionné par la création d'applications web modernes. À la recherche d'un stage de fin d'études à partir de février 2026.",
     resumeLink: "/inedjarenBrahim_CV_.pdf",
-    img: "/photo_prof.png",
+    img: profileImg,
   },
   about: {
     sectionTitle: "À Propos",
